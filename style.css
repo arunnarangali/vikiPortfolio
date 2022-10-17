@@ -432,6 +432,7 @@ form .message{
 .top img{
     width: 5rem;
     height: 5rem;
+    background: #333;
 }
 .copyright{
     width: 100%;
