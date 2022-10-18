@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;600&display=swap');
 
 :root{
-    --yellow:#f9ca24;
+    --yellow:#40f924;
 
 }
 
@@ -107,7 +107,7 @@ section{
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 1rem;
-    border: .7rem solid #f9ca24;
+    border: .7rem solid #40f924;
   }
 
   .name {
@@ -311,7 +311,7 @@ section{
     height: 25rem;
     position: relative;
     overflow: hidden;
-    border:.3rem solid #f9ca24;
+    border:.3rem solid #40f924;
     border-radius: 1.5rem;
     background-color:#333;
     box-shadow: 0  .5rem 1rem #333
